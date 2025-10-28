@@ -43,7 +43,7 @@ Jupyter Notebook
 
 You can view or run the notebook here:
 
-👉 [**Open sales_analysis.ipynb**](Copy of 08-Visualizing_Time_Series_Dataset_Retail_Sales_Data.ipynb)
+👉 [**Open Copy of 08-Visualizing_Time_Series_Dataset_Retail_Sales_Data.ipynb**](Copy of 08-Visualizing_Time_Series_Dataset_Retail_Sales_Data.ipynb)
 
 Or open it directly in Google Colab:
 
