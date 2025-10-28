@@ -39,6 +39,16 @@ Average Order Value (AOV): Identified premium buyers with higher spending per or
 Cumulative Revenue: Visualized steady long-term revenue growth over time.
 
 Visualizations Included: Line charts, bar charts, and donut charts summarizing trends and contributions. A video demonstrating the sales data analysis has been provided.
+Jupyter Notebook
+
+You can view or run the notebook here:
+
+👉 [**Open sales_analysis.ipynb**](Copy of 08-Visualizing_Time_Series_Dataset_Retail_Sales_Data.ipynb)
+
+Or open it directly in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14m990fNa0s8aelrTXlCnJxFBPUcw63yL?usp=sharing)
+
 
 File: Sales data analysis.mp4
 Length: ~2 minutes
